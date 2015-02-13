@@ -116,6 +116,18 @@ HEADER
 }
 
 /*******************
+Footer
+********************/
+footer {
+  font-size: 1em;
+  text-align: center;
+  clear: both;
+  padding-top: 10%;
+  padding-bottom: 5%;
+  color: #eee;
+}
+
+/*******************
 VIDEO CONTAINER
 ********************/
 
